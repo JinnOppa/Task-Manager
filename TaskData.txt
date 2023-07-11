@@ -1,0 +1,10 @@
+AAA 1044068937 1 1 aaa bbb ccc
+BBB 1078196954 1 2 bbb ccc ddd
+CCC 1112497792 2 1 ccc ddd eee
+DDD 1146712220 2 2 ddd eee fff
+EEE 1181013054 3 1 eee fff ggg
+FFF 1215227592 3 2 fff ggg hhh
+GGG 1249614879 4 1 ggg hhh iii
+HHH 1283915712 4 2 hhh iii jjj
+III 1352517343 5 1 iii jjj kkk
+JJJ 1405048579 5 2 jjj kkk lll
